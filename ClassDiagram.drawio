@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-23T21:41:55.861Z" agent="5.0 (Windows)" etag="wPFtljLn3EYc7YggZwVi" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-23T21:43:00.345Z" agent="5.0 (Windows)" etag="GR2PRroWdWsgLKOBFeNh" version="20.8.23" type="github">
   <diagram name="Page-1" id="I9chWYneWWuKhsYVcU5S">
     <mxGraphModel dx="1434" dy="822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
       <root>
@@ -43,7 +43,7 @@
           <mxGeometry x="20" y="75" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="8UxtxWvcFUpUL8Jv6aYZ-11" value="battle" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
-          <mxGeometry x="325" y="690" width="320" height="200" as="geometry" />
+          <mxGeometry x="325" y="580" width="320" height="200" as="geometry" />
         </mxCell>
         <mxCell id="8UxtxWvcFUpUL8Jv6aYZ-12" value="&lt;div style=&quot;font-size: 19px;&quot;&gt;- playerCharacter : object&lt;br style=&quot;font-size: 19px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 19px;&quot;&gt;-enemy : object&lt;br style=&quot;font-size: 19px;&quot;&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=19;" vertex="1" parent="8UxtxWvcFUpUL8Jv6aYZ-11">
           <mxGeometry y="30" width="240" height="60" as="geometry" />
